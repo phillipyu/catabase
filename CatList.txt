@@ -1,0 +1,5 @@
+Bob Maine Coon 12 29.99 23.4 brown
+Fluffy Siamese 43 23.92 45.3 blue
+Scratchy Tabby 2 20.00 47.12 orange
+Muffins Scottish Fold 5 25.49 59.1 gray
+Potatoes Persian 14 30.00 60 white
